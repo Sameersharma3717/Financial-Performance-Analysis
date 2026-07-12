@@ -235,21 +235,21 @@ The Power BI dashboard includes:
 
 # 📸 Dashboard Screenshots
 
-## 📉 Power BI Dashboard
+## 📊 Power BI Dashboard
 
-![Power BI Dashboard](Images/powerbi_dashboard)
+![Power BI Dashboard](Image/powerbi_dashboard.png)
 
 ---
 
 ## 📈 Excel Dashboard
 
-![Excel Dashboard](Images/financial_performance_dashboard.png)
+![Excel Dashboard](Image/financial_performance_dashboard.png)
 
 ---
 
-## 🐍 Python EDA
+## 🐍 Python EDA Dashboard
 
-![Python Dashboard](Images/python_eda_dashboard_overview.png)
+![Python EDA Dashboard](Image/python_eda_dashboard_overview.png)
 
 ---
 
