@@ -237,7 +237,7 @@ The Power BI dashboard includes:
 
 ## 📉 Power BI Dashboard
 
-![Power BI Dashboard](Images/powerbi_dashboard.png)
+![Power BI Dashboard](Images/powerbi_dashboard)
 
 ---
 
@@ -249,9 +249,7 @@ The Power BI dashboard includes:
 
 ## 🐍 Python EDA
 
-![Python Dashboard 1](Images/python_dashboard_1.png)
-
-![Python Dashboard 2](Images/python_dashboard_2.png)
+![Python Dashboard](Images/python_eda_dashboard_overview.png)
 
 ---
 
